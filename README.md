@@ -1,5 +1,5 @@
-# inDisign by pavich
+# inFurRoom by pavich
 
-ไฟล์ติดตั้งและไฟล์อัปเดตของโปรแกรม inDisign — ดูที่ [Releases](../../releases/latest)
+ไฟล์ติดตั้งและไฟล์อัปเดตของโปรแกรม inFurRoom — ดูที่ [Releases](../../releases/latest)
 
-[Privacy Policy](https://perigeeperil-byte.github.io/indisign-releases/privacy.html)
+[Privacy Policy](https://perigeeperil-byte.github.io/infurroom-releases/privacy.html)
