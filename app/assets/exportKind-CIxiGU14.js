@@ -1,0 +1,1 @@
+import{ag as e,aD as o}from"./build-B747Reiy.js";import{GLTFExporter as n}from"./GLTFExporter-DR7rsLn9.js";async function s(a){const r=new e;return r.scale.setScalar(.01),r.add(o(a.key,a.w,a.d,a.h,a.color,!1,a.label)),r.name=a.label,await new n().parseAsync(r,{binary:!0})}export{s as kindGlb};
