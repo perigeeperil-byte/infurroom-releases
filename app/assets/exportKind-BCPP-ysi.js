@@ -1,0 +1,1 @@
+import{ak as o}from"./three.module-DXFp2oc5.js";import{GLTFExporter as e}from"./GLTFExporter-CNkfR69B.js";import{b as n}from"./build-CD57GiiT.js";async function s(r){const a=new o;return a.scale.setScalar(.01),a.add(n(r.key,r.w,r.d,r.h,r.color,!1,r.label)),a.name=r.label,await new e().parseAsync(a,{binary:!0})}export{s as kindGlb};
